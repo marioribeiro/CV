@@ -48,12 +48,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **The Kairos Collective** (Jan/2016 to May/2017)    
-*Head of Product & Technology*  
+*Head of Product & Technology*
 
-**Graziashop** (Jun/2014 to Dec/2015) & (Jan/2016 to Jun/2016, Consultant)
+**Graziashop** (Jun/2014 to Dec/2015)    
 *Product Manager*
 
-**London-Boutiques.com** (Feb/2014 to Sep/2014)
+**London-Boutiques.com** (Feb/2014 to Sep/2014)    
 *Product Manager*
 
 ## Languages
