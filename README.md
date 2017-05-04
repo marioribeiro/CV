@@ -1,6 +1,6 @@
-## Your Name
+## Mário Ribeiro
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Currently training at Makers Academy to level up my coding skills, I am a passionate and committed manager with significant e-commerce experience from high-profile and luxury marketplaces and retailers. Creative and driven, whilst strategic and analytical, with many transferable skills gained within growing businesses. Has strong business astuteness and a sharp eye for design. Works at pace with solid organisational skills, managing deadlines and stakeholders with enthusiasm and effectiveness.
 
 ## Skills
 
@@ -21,9 +21,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## Education & Certifications
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2017 to July 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,31 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### EDIT. School of Design and Technology (Sep/2012 to Feb/2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- UX & UI Design and Development
 
-#### Any other qualifications
+#### SISEP (2000 to 2003)
+
+- IT Technician (ISCED 4)
+
+#### Google
+
+- Google Analytics Individual Qualification (IQ) - 2015
+
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**The Kairos Collective** (Jan/2016 to May/2017)    
+*Head of Product & Technology*  
+
+**Graziashop** (Jun/2014 to Dec/2015) & (Jan/2016 to Jun/2016, Consultant)
+*Product Manager*
+
+**London-Boutiques.com** (Feb/2014 to Sep/2014)
+*Product Manager*
+
+## Languages
+
+- Portuguese (Native Speaker)
+- English
