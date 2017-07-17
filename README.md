@@ -1,6 +1,6 @@
 ## Mário Ribeiro
 
-[Personal website](http://marioribeiro.com) • [Twitter handle](https://twitter.com/marioribeiro)
+[Personal website](http://marioribeiro.com) • [LinkedIn](http://www.linkedin.com/in/mariocalvelasribeiro)• [Twitter](https://twitter.com/marioribeiro)
 
 Currently training at Makers Academy to level up my coding skills and seek a career in development, I am a passionate and committed manager with significant e-commerce experience from high-profile and luxury marketplaces and retailers. Creative and driven, whilst strategic and analytical, with many transferable skills gained within growing businesses. Has strong business astuteness and a sharp eye for design. Works at pace with solid organisational skills, managing deadlines and stakeholders with enthusiasm and effectiveness.
 
