@@ -8,7 +8,7 @@ I'm a Full Stack Developer and former Head of Product and Technology. I have rec
 
 Whilst studying at Makers Academy I've learned and used new technologies in different projects, using our learnings of OOP, TDD and XP principles.
 
-Please have a look at my [Github](https://github.com/marioribeiro) to see all my projects and contributions.
+Please have a look at my [GitHub](https://github.com/marioribeiro) to see all my projects and contributions.
 
 | Project Title    | Timeframe          | Technologies        |
 | ---                                                                     |---                 |---                                                        |
