@@ -6,13 +6,16 @@ I'm a Full Stack Developer and former Head of Product and Technology. I have rec
 
 ## Projects
 
-Whilst studying at Makers Academy I've learned and used new technologies in different projects, using our learnings of OOP, TDD and XP principles. Please have a look at my [Github](https://github.com/marioribeiro) to see all my projects and contributions.
+Whilst studying at Makers Academy I've learned and used new technologies in different projects, using our learnings of OOP, TDD and XP principles.
+
+Please have a look at my [Github](https://github.com/marioribeiro) to see all my projects and contributions.
 
 | Project Title    | Timeframe          | Technologies        |
 | ---                                                                     |---                 |---                                                        |
-| [Ductu](https://github.com/rogrenke/to-learn-list) | 10 days (Group Project)| A website for mentors and meentes to share content and communicate. Built with: Express, MongoDB, Node, Mongoose, Mocha, Pug, HTML / CSS, Passport  |
-| Meeto ([API](https://github.com/marioribeiro/meeto) & [Client](https://github.com/marioribeiro/meeto-client))  | 5 days (Group Project)| A website for travellers that are looking for someone to share the costs of their trips. Built with: Sinatra, MongoDB, React, Jest. |
-| [Instatastic](https://github.com/marioribeiro/instagram-challenge)  | 2 days (Solo)| An Instagram clone. Built with: Ruby on Rails, Postgresql, RSpec, Capybara      |
+| [Ductu](https://github.com/rogrenke/to-learn-list) | 10 days (Group Project)| A website for mentors and meentes to share content and communicate. Built with: JavaScript, Express, MongoDB, Node, Mongoose, Mocha, Pug, HTML / CSS, Passport  |
+| Meeto ([API](https://github.com/marioribeiro/meeto) & [Client](https://github.com/marioribeiro/meeto-client))  | 5 days (Group Project)| A website for travellers that are looking for someone to share the costs of their trips. Built with: JavaScript, Ruby, Sinatra, MongoDB, React, Jest. |
+| [Instatastic](https://github.com/marioribeiro/instagram-challenge)  | 2 days (Solo)| An Instagram clone. Built with: Ruby, Ruby on Rails, Postgresql, RSpec, Capybara      |
+| [Notes App](https://github.com/marioribeiro/Notes-App)  | 2 days (Group Project)| A simple notes app built without any libraries or frameworks. Built with: JavaScript, HTML, CSS      |
 
 
 ## Education & Certifications
