@@ -12,7 +12,7 @@ Please have a look at my [GitHub](https://github.com/marioribeiro) to see all my
 
 | Project Title    | Timeframe          | Technologies        |
 | ---                                                                     |---                 |---                                                        |
-| [Ductu](https://github.com/rogrenke/to-learn-list) | 10 days (Group Project)| A website for mentors and meentes to share content and communicate. Built with: JavaScript, Express, MongoDB, Node, Mongoose, Mocha, Pug, HTML / CSS, Passport  |
+| [Ductu](https://github.com/marioribeiro/ductu) | 10 days (Group Project)| A website for mentors and meentes to share content and communicate. Built with: JavaScript, Express, MongoDB, Node, Mongoose, Mocha, Pug, HTML / CSS, Passport  |
 | Meeto ([API](https://github.com/marioribeiro/meeto) & [Client](https://github.com/marioribeiro/meeto-client))  | 5 days (Group Project)| A website for travellers that are looking for someone to share the costs of their trips. Built with: JavaScript, Ruby, Sinatra, MongoDB, React, Jest. |
 | [Instatastic](https://github.com/marioribeiro/instagram-challenge)  | 2 days (Solo)| An Instagram clone. Built with: Ruby, Ruby on Rails, Postgresql, RSpec, Capybara      |
 | [Notes App](https://github.com/marioribeiro/Notes-App)  | 2 days (Group Project)| A simple notes app built without any libraries or frameworks. Built with: JavaScript, HTML, CSS      |
