@@ -46,7 +46,7 @@ Please have a look at my [GitHub](https://github.com/marioribeiro) to see all my
 **The Kairos Collective** (Jan/2016 to May/2017)    
 *Head of Product & Technology*
 
-*Key Responsabilities*
+*Key Responsibilities*
 - Support and mentor the cross-functional teams, ensuring that their work is reflective of the business requirements and objectives.
 - Produce detailed website functional specifications and manage all internal and external implementation activities.
 - Maintain and communicate the product roadmap and execute the product vision set out by the founder.
@@ -61,10 +61,10 @@ Please have a look at my [GitHub](https://github.com/marioribeiro) to see all my
 - The platform exceeded its initial sales targets by 395%
 - Concluded the website build with a cost 60% below the allocated budget.
 
-**Graziashop** (Contract from Jun/2014 to Dec/2015, Consultant from Jan/2015 to Jul/2015)    
+**Graziashop** (Contract from Jun/2014 to Dec/2015, Consultant from Jan/2016 to Jul/2016)    
 *Product Manager*
 
-*Key Responsabilities*
+*Key Responsibilities*
 - Participate to the development planning process to ensure features needed are planned and delivered as appropriate in cooperation with other teams involved.
 - UX and customer journey optimisation.
 - Produce detailed website functional specification and manage all internal and external implementation activities.
@@ -83,7 +83,7 @@ campaigns.
 **London-Boutiques.com** (Feb/2014 to Sep/2014)    
 *Product Manager*
 
-*Key Responsabilities*
+*Key Responsibilities*
 - Manage external development agency throughout the product development cycle.
 - Prioritise day-to-day work, including live issues, and proving progress updates on the delivery of the product roadmap.
 - Work on improving the overall user experience and analyse data to understand the customer behaviour
