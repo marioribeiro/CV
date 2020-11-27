@@ -46,7 +46,7 @@ Please have a look at my [GitHub](https://github.com/marioribeiro) to see all my
 **Perkbox**  
 *Head of Developer Experience* (Aug/2019 to Oct/2020)\
 *Engineering Chapter Lead - Perks* (Jul/2018 to Aug/2019)\
-*Software Engineer* (Aug/2017 to Jul/2018)\
+*Software Engineer* (Aug/2017 to Jul/2018)
 
 *Key Responsibilities*
 - Manage and lead multiple engineering teams, including direct line management.
