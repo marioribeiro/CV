@@ -43,6 +43,37 @@ Please have a look at my [GitHub](https://github.com/marioribeiro) to see all my
 
 ## Experience
 
+**Perkbox** (Aug/2017 to Oct/2020)    
+*Head of Developer Experience* (Aug/2019 to Oct/2020)
+*Engineering Chapter Lead - Perks* (Jul/2018 to Aug/2019)
+*Software Engineer* (Aug/2017 to Jul/2018)
+
+*Key Responsibilities*
+- Manage and lead multiple engineering teams, including direct line management.
+Responsibilities include coaching, performance management, hiring, and budgeting;
+- Ensure delivery consistency with Agile processes across teams;
+- ISO representative for the Product & Engineering department;
+- Enhance the processes and increase productivity, quality, and experience of the engineering
+team (including Culture, Training, L&D, Growth Framework, KPIs and OKRs);
+- Implement mechanisms to monitor, manage and provide progress on all software
+development activities;
+- Working closely with the Product Managers & Architects to meet current and future user
+needs ensuring maintainability, consistency, and quality.
+
+
+*Key Achievements*
+- Supported the scaling and restructure of the department (from 30 to more than 70 people)
+creating Tribes, Squads, and Guilds;
+- Led the cross-functional tribe for Perks. This product is the core proposition of Perkbox’s
+platform and used by hundreds of thousands of users around the world.
+- Supported the launch of Perkbox in France and Australia;
+- Implemented a new engineering support system (including a triaging system and on-call
+mechanisms) that enabled our process to scale to multiple teams and areas of ownership;
+- Developed the initial release of the current mobile application (React Native);
+- Supported a successful migration from PHP to Go and full adoption of React, React Native,
+and GraphQL.
+
+
 **The Kairos Collective** (Jan/2016 to May/2017)    
 *Head of Product & Technology*
 
